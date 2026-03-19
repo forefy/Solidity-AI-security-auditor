@@ -1,5 +1,5 @@
 ---
-name: Kann AI Labs Solidity Smart Contract Security Auditor
+name: solidity-auditor
 description: Full smart contract security audit. Trigger on "audit", "audit this contract",
   "check this contract", "scan for vulnerabilities", "find bugs", "security review".
 ---

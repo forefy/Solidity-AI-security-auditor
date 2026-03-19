@@ -30,7 +30,7 @@ cd AI-Security-Auditor
 **2. Install the auditor command**
 
 ```bash
-mkdir -p .opencode/skill && cp -r solidity_auditor/  .opencode/skill/solidity-auditor
+mkdir -p .opencode/skill && cp -r solidity-auditor/  .opencode/skill/solidity-auditor
 ```
 
 ---
